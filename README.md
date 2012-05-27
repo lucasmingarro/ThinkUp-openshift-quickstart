@@ -1,4 +1,4 @@
-ThunkUp on OpenShift
+ThinkUp on OpenShift
 =========================
 ThinkUp is a free, open source web application that captures all your activity on social networks like Twitter, Facebook and Google+.
 
